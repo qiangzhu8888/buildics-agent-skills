@@ -1,0 +1,3 @@
+interface:
+  display_name: "BUILDICS Chief"
+  short_description: "Agent orchestration and approval gates"
