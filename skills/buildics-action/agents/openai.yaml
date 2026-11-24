@@ -1,0 +1,3 @@
+interface:
+  display_name: "BUILDICS Action"
+  short_description: "Dry-run and approved action safeguards"
